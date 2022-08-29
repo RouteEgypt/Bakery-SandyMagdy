@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    line-height: 1.98em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-bar {
+
+    width: 90%;
+    margin: auto;
+    line-height: 50px;
+}
+
+.logo {
+    float: left;
+    width: 15%;
+}
+
+.links {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
+
+a {
+    padding: 20px;
+    margin: 20px;
+    width: 15%;
+    color: antiquewhite;
+    text-decoration: none;
+
+}
+
+.Head {
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+
+}
+
+.home {
+    color: antiquewhite;
+    margin: 10% auto;
+    width: 50%;
+    text-align: center;
+
+}
+
+.btn1 {
+    padding: 15px;
+    background-color: #8e7754;
+    color: antiquewhite;
+    border: none;
+}
+
+.btn2 {
+    padding: 15px;
+    color: antiquewhite;
+    background-color: transparent;
+    border-color: antiquewhite;
+}
+
+.container {
+    width: 80%;
+    margin:  auto;
+}
+
+.about1 {
+    padding: 10% 0;
+
+}
+
+.img-about {
+    width: 45%;
+    float: left;
+    margin: 15px;
+
+
+}
+
+.about-contact {
+    width: 48%;
+    float: right;
+}
+
+/* .jpg1{ float: left;  }
+.p1{float: left;}
+.jpg2{ float: left; }
+.p2{float: left;}
+.jpg3{ float: left; }
+.p3{float: left;}
+.jpg4{ float: left; }
+.p4{float: left;} */
+table {
+
+    height: 50%;
+}
+
+td {
+    padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+
+
+}
+
+.location {
+    background-color: #f8f8f8;
+}
+
+.location-img {
+    width: 45%;
+    float: right;
+    margin: 30px;
+
+}
+
+.location-content {
+    width: 48%;
+    float: left;
+
+}
+
+.offer-head {
+
+    text-align: center;
+    margin: 30px;
+}
+
+.our-offer {
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.img-offer {
+    width: 100%;
+}
+
+.info {
+    background-color: #f8f8f8;
+}
+
+
+.info-img{
+      width: 45%;
+    float: right;
+    margin: 30px;
+}
+.info-content{
+    float: left;
+    width: 45%;
+   
+}
+.footer{
+    background-color: #403d38;
+    display: inline-block;
+    text-align: center;
+
+}
+.column{
+   width:23%;
+   display: inline-block;
+   
+ 
+}
+.footer h4{
+    color: #f8f8f8;
+
+}
+.foot{
+    background-color: hsl(36, 5%, 20%);
+    text-align: center;
+    padding: 40px;
+   
+}
+.foot p {
+    color: #f8f8f8;
+
+}
